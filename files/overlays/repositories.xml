@@ -2532,6 +2532,18 @@
     <source type="git">https://github.com/doctaweeks/junkdrawer-overlay.git</source>
   </repo>
   <repo quality="experimental" status="unofficial">
+      <name>JVIon6oose-overlay</name>
+      <description lang="en">JVIon6oose's personal overlay</description>
+      <homepage>https://github.com/JVIon6oose/JVIon6oose-overlay</homepage>
+      <owner type="person">
+        <email>JVIon6oose@protonmail.com</email>
+        <name>JVIon6oose</name>
+      </owner>
+      <source type="git">https://github.com/JVIon6oose/JVIon6oose-overlay.git</source>
+      <source type="git">git+ssh://git@github.com/JVIon6oose/JVIon6oose-overlay.git</source>
+      <feed>https://github.com/JVIon6oose/JVIon6oose-overlay/commits/master.atom</feed>
+  </repo>
+  <repo quality="experimental" status="unofficial">
     <name>k_f</name>
     <description>K_F's personal overlay</description>
     <homepage>http://git.sumptuouscapital.com/?p=portage-overlay.git;a=summary</homepage>
